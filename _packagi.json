@@ -1,0 +1,20 @@
+{
+  "name": "goit-js-hw-09-webpack",
+  "version": "1.0.0",
+  "description": "hw-09-webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rost-Perig/goit-js-hw-09-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rost-Perig/goit-js-hw-09-webpack/issues"
+  },
+  "homepage": "https://github.com/Rost-Perig/goit-js-hw-09-webpack#readme"
+}
